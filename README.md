@@ -1,5 +1,5 @@
  ## LeaderBoard
-
+Hosted link: https://Dakshayini1.github.io/leaderboard/
 ### Introduction
 
 LeaderBoard is a simple web application that allows users to create and view a leaderboard of their favorite players. The application is built using HTML, CSS, and JavaScript.
@@ -9,7 +9,7 @@ LeaderBoard is a simple web application that allows users to create and view a l
 To get started, clone the repository and install the dependencies.
 
 ```
-Hosted link: https://Dakshayini1.github.io/leaderboard/
+
 cd leaderboard
 npm install
 ```
