@@ -10,7 +10,7 @@ To get started, clone the repository and install the dependencies.
 
 ```
 Hosted link: https://Dakshayini1.github.io/leaderboard/
-cd LeaderBoard
+cd leaderboard
 npm install
 ```
 
